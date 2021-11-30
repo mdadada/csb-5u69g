@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://mdadada.github.io/csb-5u69g/static/css/main.59e620a9.chunk.css",
+    "main.js": "https://mdadada.github.io/csb-5u69g/static/js/main.0095d522.chunk.js",
+    "main.js.map": "https://mdadada.github.io/csb-5u69g/static/js/main.0095d522.chunk.js.map",
+    "runtime-main.js": "https://mdadada.github.io/csb-5u69g/static/js/runtime-main.de5d8022.js",
+    "runtime-main.js.map": "https://mdadada.github.io/csb-5u69g/static/js/runtime-main.de5d8022.js.map",
+    "static/js/2.58aecec7.chunk.js": "https://mdadada.github.io/csb-5u69g/static/js/2.58aecec7.chunk.js",
+    "static/js/2.58aecec7.chunk.js.map": "https://mdadada.github.io/csb-5u69g/static/js/2.58aecec7.chunk.js.map",
+    "index.html": "https://mdadada.github.io/csb-5u69g/index.html",
+    "static/css/main.59e620a9.chunk.css.map": "https://mdadada.github.io/csb-5u69g/static/css/main.59e620a9.chunk.css.map",
+    "static/js/2.58aecec7.chunk.js.LICENSE.txt": "https://mdadada.github.io/csb-5u69g/static/js/2.58aecec7.chunk.js.LICENSE.txt",
+    "static/media/sample.db386ac7.jpg": "https://mdadada.github.io/csb-5u69g/static/media/sample.db386ac7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5d8022.js",
+    "static/js/2.58aecec7.chunk.js",
+    "static/css/main.59e620a9.chunk.css",
+    "static/js/main.0095d522.chunk.js"
+  ]
+}
